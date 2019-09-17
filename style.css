@@ -1,0 +1,106 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+#div1{
+    display: block;
+    padding: auto;
+    margin: auto;
+    background-color: rgb(242, 236, 148, 0.3);
+    border-style: solid;
+    margin-top: 10px;
+    padding-right: 10px;
+    margin-left: 35px;
+    float: left;
+}
+
+nav{
+    text-align: center;
+}
+
+#div2{
+    display: block;
+    background-color: rgb(242, 236, 148, 0.3);
+    border-style: solid;
+    padding: 50px 50px 10px 50px;
+    float: right;
+    margin: 10px;
+    margin-right: 35px;
+}
+
+body{
+    background-image: url(https://f1.media.brightcove.com/7/1578086878/1578086878_6080866066001_6080834033001-vs.jpg?pubId=1578086878&videoId=6080834033001);
+    background-repeat: no-repeat;
+    background-size: 1366px 768px;
+}
+
+#img1{
+  display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img2{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img3{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img4{
+  display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img5{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img6{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img7{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img8{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img9{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
+
+#img10{
+    display: block;
+  padding: auto;
+  margin: auto;
+  float: center;
+}
